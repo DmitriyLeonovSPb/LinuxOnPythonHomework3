@@ -1,0 +1,235 @@
+2023-08-20 14:04:10.069722
+Quantity of files: 4
+Size of files: 100M
+0.53 0.45 0.45 1/573 18717
+
+2023-08-20 14:04:47.205901
+Quantity of files: 4
+Size of files: 100M
+1.80 0.78 0.57 1/564 18743
+
+2023-08-20 14:05:22.323075
+Quantity of files: 4
+Size of files: 100M
+2.68 1.12 0.69 1/557 18775
+
+2023-08-20 14:05:22.588625
+Quantity of files: 4
+Size of files: 100M
+2.68 1.12 0.69 3/565 18785
+
+2023-08-20 14:05:24.692929
+Quantity of files: 4
+Size of files: 100M
+2.55 1.12 0.69 1/564 18798
+
+2023-08-20 14:06:00.834359
+Quantity of files: 4
+Size of files: 100M
+2.42 1.25 0.75 1/558 18820
+
+2023-08-20 14:26:39.025385
+Quantity of files: 4
+Size of files: 100M
+2.17 0.97 0.68 1/561 19123
+
+2023-08-20 14:27:18.038658
+Quantity of files: 4
+Size of files: 100M
+2.97 1.32 0.82 1/571 19229
+
+2023-08-20 14:27:18.306965
+Quantity of files: 4
+Size of files: 100M
+2.97 1.32 0.82 2/579 19239
+
+2023-08-20 14:27:20.093048
+Quantity of files: 4
+Size of files: 100M
+2.81 1.31 0.82 1/579 19256
+
+2023-08-20 14:27:53.289849
+Quantity of files: 4
+Size of files: 100M
+2.78 1.44 0.88 1/565 19277
+
+2023-08-20 14:35:57.220535
+Quantity of files: 4
+Size of files: 1M
+1.21 0.80 0.73 1/568 19415
+
+2023-08-20 14:35:57.599977
+Quantity of files: 4
+Size of files: 1M
+1.21 0.80 0.73 1/570 19431
+
+2023-08-20 14:35:57.609052
+Quantity of files: 4
+Size of files: 1M
+1.21 0.80 0.73 1/570 19433
+
+2023-08-20 14:35:57.648622
+Quantity of files: 4
+Size of files: 1M
+1.21 0.80 0.73 2/570 19445
+
+2023-08-20 14:35:58.040245
+Quantity of files: 4
+Size of files: 1M
+1.21 0.80 0.73 1/570 19457
+
+2023-08-20 14:37:17.900295
+Quantity of files: 4
+Size of files: 1M
+0.91 0.79 0.73 2/576 19633
+
+2023-08-20 14:37:18.279350
+Quantity of files: 4
+Size of files: 1M
+0.91 0.79 0.73 1/578 19649
+
+2023-08-20 14:37:18.289073
+Quantity of files: 4
+Size of files: 1M
+0.91 0.79 0.73 1/578 19651
+
+2023-08-20 14:37:18.334474
+Quantity of files: 4
+Size of files: 1M
+0.91 0.79 0.73 2/580 19665
+
+2023-08-20 14:37:18.768836
+Quantity of files: 4
+Size of files: 1M
+0.91 0.79 0.73 1/580 19677
+
+2023-08-20 14:37:38.114454
+Quantity of files: 4
+Size of files: 1M
+0.85 0.79 0.73 1/572 19757
+
+2023-08-20 14:37:38.511726
+Quantity of files: 4
+Size of files: 1M
+0.85 0.79 0.73 1/581 19780
+
+2023-08-20 14:37:38.520823
+Quantity of files: 4
+Size of files: 1M
+0.85 0.79 0.73 4/581 19782
+
+2023-08-20 14:37:38.559947
+Quantity of files: 4
+Size of files: 1M
+0.85 0.79 0.73 2/581 19794
+
+2023-08-20 14:37:38.945511
+Quantity of files: 4
+Size of files: 1M
+0.85 0.79 0.73 1/581 19806
+
+2023-08-20 14:39:39.986926
+Quantity of files: 4
+Size of files: 1M
+0.50 0.64 0.68 1/572 19937
+
+2023-08-20 14:39:40.402716
+Quantity of files: 4
+Size of files: 1M
+0.50 0.64 0.68 1/574 19953
+
+2023-08-20 14:39:40.419026
+Quantity of files: 4
+Size of files: 1M
+0.50 0.64 0.68 2/574 19955
+
+2023-08-20 14:39:40.455104
+Quantity of files: 4
+Size of files: 1M
+0.50 0.64 0.68 1/575 19968
+
+2023-08-20 14:39:40.869360
+Quantity of files: 4
+Size of files: 1M
+0.70 0.68 0.70 1/575 19980
+
+2023-08-20 14:43:29.651990
+Quantity of files: 4
+Size of files: 1M
+0.52 0.51 0.62 2/569 20152
+
+2023-08-20 14:43:30.056071
+Quantity of files: 4
+Size of files: 1M
+0.52 0.51 0.62 1/571 20168
+
+2023-08-20 14:43:30.065791
+Quantity of files: 4
+Size of files: 1M
+0.52 0.51 0.62 1/571 20170
+
+2023-08-20 14:43:30.099075
+Quantity of files: 4
+Size of files: 1M
+0.52 0.51 0.62 2/571 20182
+
+2023-08-20 14:43:30.482853
+Quantity of files: 4
+Size of files: 1M
+0.52 0.51 0.62 1/571 20194
+
+2023-08-20 14:44:12.919121
+Quantity of files: 4
+Size of files: 1M
+0.65 0.54 0.62 1/570 20321
+
+2023-08-20 14:44:13.318969
+Quantity of files: 4
+Size of files: 1M
+0.65 0.54 0.62 1/579 20344
+
+2023-08-20 14:44:13.328761
+Quantity of files: 4
+Size of files: 1M
+0.65 0.54 0.62 1/579 20346
+
+2023-08-20 14:44:13.389206
+Quantity of files: 4
+Size of files: 1M
+0.65 0.54 0.62 1/580 20359
+
+2023-08-20 14:44:13.823950
+Quantity of files: 4
+Size of files: 1M
+0.65 0.54 0.62 1/580 20371
+
+2023-08-20 14:46:10.156237
+Quantity of files: 4
+Size of files: 1M
+1.12 0.72 0.67 2/569 20491
+
+2023-08-20 14:46:10.579694
+Quantity of files: 4
+Size of files: 1M
+1.12 0.72 0.67 2/577 20519
+
+2023-08-20 14:46:11.019338
+Quantity of files: 4
+Size of files: 1M
+1.19 0.74 0.68 1/577 20537
+
+2023-08-20 14:46:11.032776
+Quantity of files: 4
+Size of files: 1M
+1.19 0.74 0.68 4/577 20543
+
+2023-08-20 14:46:11.087283
+Quantity of files: 4
+Size of files: 1M
+1.19 0.74 0.68 2/577 20559
+
+2023-08-20 14:46:11.474614
+Quantity of files: 4
+Size of files: 1M
+1.19 0.74 0.68 1/577 20575
+

@@ -1,0 +1,32 @@
+Вс 20 авг 2023 14:43:29 MSK
+Quantity of files: 4
+Size of files: 1M
+0.52 0.51 0.62 2/570 20135
+Вс 20 авг 2023 14:44:12 MSK
+Quantity of files: 4
+Size of files: 1M
+0.65 0.54 0.62 2/572 20305
+Вс 20 авг 2023 14:46:10 MSK
+Quantity of files: 4
+Size of files: 1M
+1.12 0.72 0.67 7/571 20495
+Вс 20 авг 2023 14:46:10 MSK
+Quantity of files: 4
+Size of files: 1M
+1.12 0.72 0.67 2/579 20523
+Вс 20 авг 2023 14:46:11 MSK
+Quantity of files: 4
+Size of files: 1M
+1.19 0.74 0.68 1/579 20541
+Вс 20 авг 2023 14:46:11 MSK
+Quantity of files: 4
+Size of files: 1M
+1.19 0.74 0.68 3/579 20547
+Вс 20 авг 2023 14:46:11 MSK
+Quantity of files: 4
+Size of files: 1M
+1.19 0.74 0.68 1/579 20563
+Вс 20 авг 2023 14:46:11 MSK
+Quantity of files: 4
+Size of files: 1M
+1.19 0.74 0.68 2/579 20579
